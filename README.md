@@ -6,7 +6,7 @@
 изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 ---------
 ### Клонирование репозитория и создание в нем файла
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/SEe_MR-Sorg.jpg?raw=true "5")
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок1.png?raw=true "5")
 ---------
 ![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/6WWpKv5X084.jpg?raw=true "6")
 ---------
