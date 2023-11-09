@@ -5,10 +5,12 @@
 ## Цель работы
 изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 ---------
-### Клонирование репозитория и создание в нем файла
-![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок1.png?raw=true "5")
+### Клонирование репозитория
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок1.png)
 ---------
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/6WWpKv5X084.jpg?raw=true "6")
+### Содержимое веток master и branch1
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок2.png?raw=true "6)
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок3.png?raw=true "6")
 ---------
 ### История операций и последние изменения
 ![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/ikPybqQ_pWU.jpg?raw=true "7-8")
