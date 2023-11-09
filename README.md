@@ -9,7 +9,7 @@
 ![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок1.png)
 ---------
 ### Содержимое веток master и branch1
-![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок2.png?raw=true "6)
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок2.png?raw=true "6")
 ![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок3.png?raw=true "6")
 ---------
 ### История операций и последние изменения
