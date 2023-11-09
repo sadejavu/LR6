@@ -9,34 +9,20 @@
 ![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок1.png)
 ---------
 ### Содержимое веток master и branch1
-![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок2.png?raw=true "6")
-![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок3.png?raw=true "6")
----------
-### История операций и последние изменения
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/ikPybqQ_pWU.jpg?raw=true "7-8")
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок2.png)
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок3.png)
 ---------
 ### Слияние веток
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/TLt2Eg1Q84w.jpg?raw=true "9")
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок5.png)
 ---------
-### Удаление побочной ветки
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/En0JMPfGmNo.jpg?raw=true "10")
+### решение конфликта слияния
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок6.png)
 ---------
-### Еще несколько коммитов
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/YpLWyqn33C4.jpg?raw=true "11")
+### закоментировал изменения 
+![Alt-Текст](https://github.com/Kos4ya/LR6/blob/new_branch/images/Рисунок7.png)
 ---------
-### Откат коммита
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/bqg3Wijq9Hw.jpg?raw=true "12")
------------
-### Создание ветки для отчета
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/SSrkfVc6yZ4.jpg?raw=true "13")
-### Оформление README
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/G9voSHNYWNQ.jpg?raw=true "14")
-### История операций с сортировкой
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/Hiu0VaDFHns.jpg?raw=true "15")
+Далее создал ветку для отчета и добавил туда скриншоты, сделал пуш на удаленный репозиторий
 ----------
-### Выгрузка коммитов в онлайн
-![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/OH2ZU9HfBs0.jpg?raw=true "16")
----------
 ## Список используемых команд
 git config --global user.name (установка имени)
 git config --global user.email (установка почты)
@@ -52,6 +38,5 @@ git show (показать что изменится при будущем ко�
 git checkout -b "ветка" "старый коммит" (откат коммита)
 --------
 ## Вывод
-
-Я изученил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и
+Я изучил базовые возможности системы управления версиями, получил опыт работы с Git, опыт работы с локальным и
 удаленным репозиторием. 
